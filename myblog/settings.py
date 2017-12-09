@@ -25,7 +25,7 @@ SECRET_KEY = 'k(u2^x)#c+kxo&0!21kup_9egdm+#l1s-s-bc$8^40$ey3j6rs'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [monikaniemeczek.pythonanywhere.com]
 
 
 # Application definition
